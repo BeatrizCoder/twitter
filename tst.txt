@@ -1,0 +1,17 @@
+npm i -g @nestjs/cli
+nest generate module users/ npx @nestjs/cli generate module users
+ s um nao for o ou outro vai
+
+npm install prisma-D
+npx prisma init
+npx prisma migrate dev
+npm install @prisma/client
+npx prisma studio
+
+site para senha com @
+https://www.w3schools.com/tags/ref_urlencode.ASP
+
+npm install bcrypt
+npm install @types/bcrypt -D
+
+
