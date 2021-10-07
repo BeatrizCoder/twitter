@@ -16,3 +16,10 @@ model User{
   displayName String
 
 }
+model tweet {
+  id        Int      @id @default(autoincrement())
+  texto     String
+  emoji     String
+  data_postagem  DateTime
+  curtidas   Int
+}
